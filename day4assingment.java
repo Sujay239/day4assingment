@@ -12,6 +12,6 @@ int b = sc.nextInt();
  int sum = a+b;
 
  System.out.println("The sum is :" + sum);
-
+return;
 }
 }
